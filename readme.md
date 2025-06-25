@@ -1,4 +1,4 @@
-<img src="Md. Tushar Hossain.png" />
+<img src="Md. Tushar Hossain.png" with=100% />
 
 # 👋 Hi, I'm Tushar
 
