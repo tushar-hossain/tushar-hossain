@@ -1,7 +1,9 @@
 <p align="center">
   <img src="./Md. Tushar Hossain.png" alt="Md. Tushar Hossain" width="50%" />
 </p>
+<p align="center">
 # 👋 Hi, I'm Tushar
+</p>
 
 🎯 Fullstack Developer | 💻 JavaScript Enthusiast | 🌍 Lifelong Learner
 
