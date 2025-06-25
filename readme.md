@@ -57,6 +57,10 @@ const tushar = {
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-hossain&" alt="tushar-hossain" /></p>
+
+---
+
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [Coming Soon]
