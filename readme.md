@@ -1,3 +1,5 @@
+<img src="Md. Tushar Hossain.png" />
+
 # 👋 Hi, I'm Tushar
 
 🎯 Fullstack Developer | 💻 JavaScript Enthusiast | 🌍 Lifelong Learner
@@ -65,8 +67,6 @@ const tushar = {
 - 🌐 Portfolio: [Coming Soon]
 - 📧 Email: tusharsu97@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/tushar-hossain-undefined-0361b4371/](#)
-- 🧑‍💻 GitHub: [https://github.com/tushar-hossain]
-
 ---
 
 
