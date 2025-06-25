@@ -15,6 +15,21 @@ I'm a passionate Fullstack Developer from Bangladesh. I specialize in building f
 
 ---
 
+```javascript
+const tushar = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Tailwind CSS],
+  tools: [React, Nodejs, MongoDB, Epressjs],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "Javascript",
+                        speaker: "English",
+                        mentor: "Programming Hero"
+                      },
+ challenge: "I am doing the challenge focused on react and Expressjs"
+}
+```
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
