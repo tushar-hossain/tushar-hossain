@@ -1,4 +1,6 @@
-<img src="Md. Tushar Hossain.png" with=100% />
+<p align="center">
+  <img src="./Md. Tushar Hossain.png" alt="Md. Tushar Hossain" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
 # 👋 Hi, I'm Tushar
 
