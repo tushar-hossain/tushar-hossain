@@ -54,11 +54,6 @@ const tushar = {
 | <a href="https://github.com/tushar-hossain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-hossain&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tushar-hossain's github stats" /></a> | <a href="https://github.com/tushar-hossain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-hossain&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-hossain&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-hossain&layout=compact&langs_count=6&hide=javaScript&theme=github_dark&hide_border=true" height="165" />
-</p>
-
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-hossain&" alt="tushar-hossain" /></p>
