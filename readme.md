@@ -2,7 +2,7 @@
   <img src="github.png" alt="Md. Tushar Hossain" width="50%" />
 </p>
 <h3>
-# 👋 Hi, I'm Tushar
+# 👋 Hi, I'm Tushar Hossain
 </h3>
 
 🎯 Fullstack Developer | 💻 JavaScript Enthusiast | 🌍 Lifelong Learner
