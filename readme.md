@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Md. Tushar Hossain.png" alt="Md. Tushar Hossain" width="150" height="150" style="border-radius: 50%;" />
+  <img src="./Md. Tushar Hossain.png" alt="Md. Tushar Hossain" width="100%" />
 </p>
 
 # 👋 Hi, I'm Tushar
