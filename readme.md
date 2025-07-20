@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tushar.png" alt="Md. Tushar Hossain" width="50%" />
+  <img src="tushar.png" alt="Md. Tushar Hossain" width="100%" />
 </p>
 <h3>
 # 👋 Hi, I'm Tushar Hossain
