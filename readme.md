@@ -5,18 +5,21 @@
 # 👋 Hi, I'm Tushar Hossain
 </h3>
 
-🎯 Fullstack Developer | 💻 JavaScript Enthusiast | 🌍 Lifelong Learner
+🎯 MERN Stack Developer | 💻 JavaScript Enthusiast | 🌍 Lifelong Learner 
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Fullstack Developer from Bangladesh. I specialize in building fast, responsive, and scalable web applications using modern technologies. I love turning ideas into reality through clean and efficient code.
+I'm a passionate **MERN Stack Developer** from **Bangladesh**. I specialize in building modern, responsive, and scalable web applications using the MERN stack. I enjoy writing clean code and solving real-world problems through web development.
 
-- 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 Always learning new tools, frameworks, and best practices
-- 👨‍💻 Open to collaboration on exciting frontend/backend projects
-- ⚙️ Favorite stack: `React + Node.js + MongoDB + Tailwind CSS`
+- 🎓 BSc in Computer Science and Engineering from Sonargaon University (Graduated: December 2024)
+- 🔭 Currently working on personal and practice-based **MERN projects**
+- 🌱 Preparing to become a full-stack developer by learning advanced tools and best practices
+- 👨‍💻 Open to internships, freelance work, and entry-level developer opportunities
+- ⚙️ Tech Stack: `React.js`, `Next.js`, `Node.js`, `Express.js`, `MongoDB`, `Tailwind CSS`
+- 📫 Email: tusharsu97@gmail.com
+- 💬 WhatsApp: +880194371573
 
 ---
 
@@ -24,14 +27,14 @@ I'm a passionate Fullstack Developer from Bangladesh. I specialize in building f
 const tushar = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Tailwind CSS],
-  tools: [React, Nodejs, MongoDB, Epressjs],
+  tools: [React, Next.js, Nodejs, MongoDB, Epressjs],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "Javascript",
                         speaker: "English",
                         mentor: "Programming Hero"
                       },
- challenge: "I am doing the challenge focused on react and Expressjs"
+ challenge: "I am doing the challenge focused on React.js, Next.js and Node.js"
 }
 ```
 
@@ -42,6 +45,7 @@ const tushar = {
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-61DAFB?style=flat&logo=react)
 
 ### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
@@ -71,5 +75,7 @@ const tushar = {
 - 📧 Email: tusharsu97@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/tushar-hossain-undefined-0361b4371/](#)
 ---
+
+Thanks for visiting my profile! 🚀
 
 
