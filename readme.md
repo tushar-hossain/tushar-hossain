@@ -18,9 +18,6 @@ I'm a passionate **MERN Stack Developer** from **Bangladesh**. I specialize in b
 - 🌱 Preparing to become a full-stack developer by learning advanced tools and best practices
 - 👨‍💻 Open to internships, freelance work, and entry-level developer opportunities
 - ⚙️ Tech Stack: `React.js`, `Next.js`, `Node.js`, `Express.js`, `MongoDB`, `Tailwind CSS`
-- 📫 Email: tusharsu97@gmail.com
-- 💬 WhatsApp: +880194371573
-
 ---
 
 ```javascript
@@ -71,8 +68,9 @@ const tushar = {
 
 ## 📫 Let's Connect
 
+- 📫 Email: tusharsu97@gmail.com
+- 💬 WhatsApp: +880194371573
 - 🌐 Portfolio: https://tusharhossain.netlify.app/
-- 📧 Email: tusharsu97@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/tushar-hossain-undefined-0361b4371/](#)
 ---
 
