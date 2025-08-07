@@ -67,7 +67,7 @@ const tushar = {
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [Coming Soon]
+- 🌐 Portfolio: https://tusharhossain.netlify.app/
 - 📧 Email: tusharsu97@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/tushar-hossain-undefined-0361b4371/](#)
 ---
