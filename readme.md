@@ -2,7 +2,7 @@
   <img src="tushar_hossain.png" alt="Md. Tushar Hossain" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Md. Tushar Hossain</h1>
+<h1 align="center"> Hi, I'm Md. Tushar Hossain</h1>
 
 <p align="center">
   <strong>React.js Developer | Junior Software Developer | MERN Stack Developer</strong>
