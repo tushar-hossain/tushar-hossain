@@ -130,7 +130,7 @@ An educational programming platform designed to provide a modern learning experi
 - 📧 **Email:** tusharsu97@gmail.com
 - 💬 **WhatsApp:** +880194371573
 - 🌐 **Portfolio:** https://tusharhossain.netlify.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/tushar-hossain-undefined-0361b4371/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/tushar-hossain-dev/
 - 🐙 **GitHub:** https://github.com/tushar-hossain
 
 ---
