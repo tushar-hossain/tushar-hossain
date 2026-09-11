@@ -131,14 +131,11 @@ An educational programming platform designed to provide a modern learning experi
 
 ## 📈 GitHub Stats
 
-
-| <a href="https://github.com/tushar-hossain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-hossain&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tushar-hossain's github stats" /></a> | <a href="https://github.com/tushar-hossain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-hossain&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-hossain&" alt="tushar-hossain" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-hossain&theme=transparent&hide_border=true" alt="Tushar Hossain's GitHub Streak" />
+</p>
 
 ---
 
