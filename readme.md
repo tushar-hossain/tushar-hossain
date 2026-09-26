@@ -106,10 +106,10 @@ const tushar = {
 
 ## 📌 Featured Projects
 
-### 🌱 Gardening Community Website
-A community platform for gardening enthusiasts built with the MERN stack.
+### 📦 GoCarry – Parcel Delivery Platform
+A full-stack parcel delivery and logistics platform built with the MERN stack.
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+**Tech:** React.js, Node.js, Express.js, MongoDB, Firebase, Stripe, Tailwind CSS, Shadcn UI, TanStack Query
 
 ### 💬 Forum Web Application
 A community forum application with user-focused features and modern responsive UI.
